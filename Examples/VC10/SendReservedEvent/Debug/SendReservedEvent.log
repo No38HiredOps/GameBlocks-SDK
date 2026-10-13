@@ -1,0 +1,29 @@
+﻿Der Buildvorgang wurde am 13.11.2014 17:00:09 gestartet.
+     1>Projekt "C:\Users\GigaToni\Desktop\WarZSources\server\GameBlocksSDK\Examples\VC10\SendReservedEvent\SendReservedEvent.vcxproj" auf Knoten "3", build Ziel(e).
+     1>InitializeBuildStatus:
+         "Debug\SendReservedEvent.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\Src\SendReservedEvent.cpp
+         SendReservedEvent.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\SendReservedEvent.exe.embed.manifest.res" Debug\SendReservedEvent_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\GigaToni\Desktop\WarZSources\server\GameBlocksSDK\Examples\VC10\Win32\Debug\SendReservedEvent.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\..\..\Lib\vc110\Win32 GBClient.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\SendReservedEvent.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\GigaToni\Desktop\WarZSources\server\GameBlocksSDK\Examples\VC10\Win32\Debug\SendReservedEvent.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\GigaToni\Desktop\WarZSources\server\GameBlocksSDK\Examples\VC10\Win32\Debug\SendReservedEvent.lib" /MACHINE:X86 Debug\SendReservedEvent.exe.embed.manifest.res
+         Debug\SendReservedEvent.obj
+            Bibliothek "C:\Users\GigaToni\Desktop\WarZSources\server\GameBlocksSDK\Examples\VC10\Win32\Debug\SendReservedEvent.lib" und Objekt "C:\Users\GigaToni\Desktop\WarZSources\server\GameBlocksSDK\Examples\VC10\Win32\Debug\SendReservedEvent.exp" werden erstellt.
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\SendReservedEvent.exe.embed.manifest" /manifest Debug\SendReservedEvent.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\SendReservedEvent.exe.embed.manifest.res" Debug\SendReservedEvent_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\GigaToni\Desktop\WarZSources\server\GameBlocksSDK\Examples\VC10\Win32\Debug\SendReservedEvent.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\..\..\Lib\vc110\Win32 GBClient.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\SendReservedEvent.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\GigaToni\Desktop\WarZSources\server\GameBlocksSDK\Examples\VC10\Win32\Debug\SendReservedEvent.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\GigaToni\Desktop\WarZSources\server\GameBlocksSDK\Examples\VC10\Win32\Debug\SendReservedEvent.lib" /MACHINE:X86 Debug\SendReservedEvent.exe.embed.manifest.res
+         Debug\SendReservedEvent.obj
+            Bibliothek "C:\Users\GigaToni\Desktop\WarZSources\server\GameBlocksSDK\Examples\VC10\Win32\Debug\SendReservedEvent.lib" und Objekt "C:\Users\GigaToni\Desktop\WarZSources\server\GameBlocksSDK\Examples\VC10\Win32\Debug\SendReservedEvent.exp" werden erstellt.
+         SendReservedEvent.vcxproj -> C:\Users\GigaToni\Desktop\WarZSources\server\GameBlocksSDK\Examples\VC10\Win32\Debug\SendReservedEvent.exe
+       FinalizeBuildStatus:
+         Die Datei "Debug\SendReservedEvent.unsuccessfulbuild" wird gelöscht.
+         Aktualisieren des Timestamps von "Debug\SendReservedEvent.lastbuildstate".
+     1>Die Erstellung des Projekts "C:\Users\GigaToni\Desktop\WarZSources\server\GameBlocksSDK\Examples\VC10\SendReservedEvent\SendReservedEvent.vcxproj" ist abgeschlossen, build Ziel(e).
+
+Das Erstellen war erfolgreich.
+
+Verstrichene Zeit 00:00:33.79
